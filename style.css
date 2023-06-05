@@ -1,0 +1,109 @@
+body{
+
+  background-color: black;
+
+}
+
+#on{
+
+  background-color: #1a1a1a;
+
+  height: 690px;
+
+  width: 550px;
+
+  margin: auto;
+
+  border: 3px solid #e3a869;
+
+  padding: 10px;
+
+}
+
+#pp{
+
+  width: 200px;
+
+    display: block;
+
+  margin-left: auto;
+
+  margin-right: auto;
+
+  border-radius: 50%;
+
+}
+
+#name{
+
+  font-family: 'Cabin', sans-serif;
+
+  text-align: center;
+
+  color: #e9edf5;
+
+}
+
+#b{
+
+  text-align: center;
+
+color: white;
+
+  font-family: 'Cabin', sans-serif;
+
+}
+
+#sos{
+
+  text-align: center;
+
+  color: white;
+
+  font-family: 'Source Sans Pro', sans-serif;
+
+}
+
+ #hr {
+
+  height: 2px;
+
+  background-color: #fff0b8; /* Renk kodunu istediğiniz renk ile değiştirin */
+
+  border: none;
+
+    width: 60px;
+
+    margin: auto;
+
+  border padding: 10px;
+
+}
+
+#hr div {
+
+  height: 100%;
+
+  width: 50px;
+
+  background-color: inherit;
+
+}
+
+#w{
+
+  text-align: center;
+
+color: white;
+
+  font-family: 'Source Sans Pro', sans-serif;
+
+}
+
+#dd{
+
+  margin-left: 245px;
+
+color:white;
+
+}
